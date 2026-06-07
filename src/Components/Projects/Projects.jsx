@@ -1,8 +1,8 @@
 import React from 'react';
 import { FiArrowUpRight, FiGithub } from "react-icons/fi";
-import Project1 from '../../assets/Project1.jpg'; 
-import Project2 from '../../assets/Project2.jpg'; 
-import Project3 from '../../assets/Project3.jpg'; 
+import Project1 from '../../assets/project1.jpg'; 
+import Project2 from '../../assets/project2.jpg'; 
+import Project3 from '../../assets/project3.jpg'; 
 import './Projects.css';
 
 const Projects = ({ projectFilter }) => {
