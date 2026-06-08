@@ -14,7 +14,7 @@ const Projects = ({ projectFilter }) => {
       desc: "A highly responsive web application built with React and Tailwind CSS. Features smooth GSAP animations and structured section layouts for premium agricultural business presentation.",
       tech: ["React", "Tailwind CSS", "GSAP"],
       image: Project1,
-      liveLink: "#",
+      liveLink: "https://e-commerce-webtemplate.vercel.app/",
       gitLink: "#"
     },
     {
@@ -24,7 +24,7 @@ const Projects = ({ projectFilter }) => {
       desc: "Complete UI/UX design and custom WordPress development for a modern transit hub. Focused on seamless theme customisation, fluid navigation, and strict brand guidelines.",
       tech: ["WordPress", "Figma", "UI/UX Design"],
       image: Project2,
-      liveLink: "#",
+      liveLink: "https://architecher-website.vercel.app/",
       gitLink: "#"
     },
     {
@@ -34,7 +34,7 @@ const Projects = ({ projectFilter }) => {
       desc: "Creative direction, high-fidelity scripting, and video post-production for a comprehensive General Knowledge documentary channel focusing on West Bengal's rich history.",
       tech: ["Video Editing", "Scripting", "Photoshop"],
       image: Project3,
-      liveLink: "#",
+      liveLink: "https://architecher-website-yrj8.vercel.app/",
       gitLink: "#"
     }
   ];

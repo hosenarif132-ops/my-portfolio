@@ -54,7 +54,7 @@ const Hero = () => {
             
           </p>
           <div className="flex gap-2 hero-btns">
-            <a href="#" className="btn">view my works</a>
+            <a href="https://hosenarif132-ops.github.io/MY-PROJECT/" className="btn">view my works</a>
             
             
             <a href="/cv.pdf" download="Sk_Arif_Hosen_CV.pdf" className="btn border-btn">

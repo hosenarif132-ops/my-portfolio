@@ -53,7 +53,7 @@ const ContactFooter = () => {
               <div className="contact-icon-box"><FiMail /></div>
               <div className="info-text">
                 <span>Email Me</span>
-                <a href="mailto:contact@ahosen.com">contact@ahosen.com</a>
+                <a href="mailto:contact@ahosen.com">skhosen.arif@gmail.com</a>
               </div>
             </div>
 
@@ -61,7 +61,7 @@ const ContactFooter = () => {
               <div className="contact-icon-box"><FiPhone /></div>
               <div className="info-text">
                 <span>Call or WhatsApp</span>
-                <a href="tel:+911234567890">+91 12345 67890</a>
+                <a href="tel:+911234567890">+91 6295570697</a>
               </div>
             </div>
 
@@ -69,7 +69,7 @@ const ContactFooter = () => {
               <div className="contact-icon-box"><FiMapPin /></div>
               <div className="info-text">
                 <span>Location</span>
-                <p>Kamarpukur, Hooghly, West Bengal, India</p>
+                <p>Arambagh, Hooghly, West Bengal, India</p>
               </div>
             </div>
           </div>
@@ -77,10 +77,10 @@ const ContactFooter = () => {
           <div className="social-connect-block">
             <h4>Follow My Work</h4>
             <div className="contact-social-links">
-              <a href="#" className="social-icon" aria-label="LinkedIn"><FaLinkedinIn /></a>
-              <a href="#" className="social-icon" aria-label="GitHub"><FaGithub /></a>
-              <a href="#" className="social-icon" aria-label="YouTube"><FaYoutube /></a>
-              <a href="#" className="social-icon" aria-label="Facebook"><FaFacebookF /></a>
+              <a href="https://www.linkedin.com/in/sk-arif-hosen-5774a0352/" className="social-icon" aria-label="LinkedIn"><FaLinkedinIn /></a>
+              <a href="https://github.com/hosenarif132-ops" className="social-icon" aria-label="GitHub"><FaGithub /></a>
+              <a href="https://www.youtube.com/@eduvision247" className="social-icon" aria-label="YouTube"><FaYoutube /></a>
+              <a href="https://www.facebook.com/arif.hosen.459712/" className="social-icon" aria-label="Facebook"><FaFacebookF /></a>
             </div>
           </div>
         </div>
